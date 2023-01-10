@@ -1,6 +1,5 @@
-My notes for the programming languages course by Daniel Grossman. 
+Code snippets and notes that accompany [CSE341-programming-languages](
+https://courses.cs.washington.edu/courses/cse341/18wi/videos/index.html)
 
-https://courses.cs.washington.edu/courses/cse341/18wi/videos/index.html#unit1-videos
 
-
-The first half of the course deals with ML family of languages with SML as an example. The second part of the course deals with lisp like languages with Racket as an example.
+The first half of the course deals with ML family of languages. The second half deals with Lisp like langauges.
